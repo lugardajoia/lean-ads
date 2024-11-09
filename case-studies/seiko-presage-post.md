@@ -1,6 +1,6 @@
 # Analysis of Seiko presage post ads on Instagram/Facebook
 
-## Average time per sesion
+## Average time per session
 
 only 13s
 
