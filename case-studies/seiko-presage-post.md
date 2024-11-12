@@ -3,8 +3,11 @@
 ## Metrics
 
 Average time per session: only 13s
+
 Conversion rate: 0%
+
 Money spent: 110€
+
 Website entries: 1500
 
 ## Conclusions
