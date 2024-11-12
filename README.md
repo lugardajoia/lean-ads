@@ -30,6 +30,13 @@
 * Explore how to make brand awareness measurable.
 * ManyChat analysis (tag) / dialogue with Carla to verify the source of contacts in the chat (personalized interaction).
 
+## Actions
+
+### facebook-instagram
+
+* Reduction of budget for each post from 20€ -> 5€
+* installation of meta pixel
+
 ## Budget
 
 ### Google ads budget
