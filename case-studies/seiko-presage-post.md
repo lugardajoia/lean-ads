@@ -1,5 +1,9 @@
 # Analysis of Seiko presage post ads on Instagram/Facebook
 
+## Raw data
+
+![case study image](/res/analytics-reports/low-engagement-seiko-post.png)
+
 ## Metrics
 
 Average time per session: only 13s
