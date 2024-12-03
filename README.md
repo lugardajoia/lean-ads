@@ -35,7 +35,7 @@
 ### facebook-instagram
 
 * Reduction of budget for each post from 20€ -> 5€ ✅
-* Implementation of meta pixel ✅
+* Implementation of meta pixel ✅ [lj pixel](https://business.facebook.com/events_manager2/list/dataset/913187330332649/overview?business_id=631954493849420)
 * Create views fast ads effectiveness analysis
 
 ### Google ads/ Google Analytics
