@@ -34,15 +34,20 @@
 
 ### facebook-instagram
 
-* Reduction of budget for each post from 20€ -> 5€
-* installation of meta pixel
+* Reduction of budget for each post from 20€ -> 5€ ✅
+* Implementation of meta pixel ✅
+* Create views fast ads effectiveness analysis
+
+### Google ads/ Google Analytics
+
+* Create better views for faster ads effectiveness analysis
 
 ## Budget
 
-### Google ads budget
+### Google ads monthly budget
 
-* <500€
+* <=500€
 
-### facebook-instagram budget
+### facebook-instagram monthly budget
 
-* <600€
+* <=400€
